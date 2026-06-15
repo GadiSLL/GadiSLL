@@ -92,16 +92,6 @@ Aplicaciones enfocadas en lógica de programación, automatización y resolució
 
 ---
 
-## 🔥 Racha de Contribuciones
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GadiSLL&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 📈 Actividad
 
 <div align="center">
